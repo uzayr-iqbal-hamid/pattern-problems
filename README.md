@@ -1,9 +1,11 @@
 # pattern-problems
-## Inspired by [Striver - Raj Vikramaditya - takeuforward.org](https://takeuforward.org/)
+### Inspired by [Striver - Raj Vikramaditya - takeuforward.org ↗️](https://takeuforward.org/)
+
 ### Pattern 1: Box
 Sample case: N = 3
 
 ![p1](https://takeuforward.org/wp-content/uploads/2022/08/P1.png)
+
 
 ### Pattern 2: Star Forest
 Sample case: N = 3
