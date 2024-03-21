@@ -5,7 +5,7 @@
 Sample case: N = 3
 
 ![p1](https://takeuforward.org/wp-content/uploads/2022/08/P1.png)
-Solutions: [Java]()
+Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/Pattern%201%3A%20Box)
 
 ### Pattern 2: Star Forest
 Sample case: N = 3
