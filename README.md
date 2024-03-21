@@ -5,6 +5,7 @@
 Sample case: N = 3
 
 ![p1](https://takeuforward.org/wp-content/uploads/2022/08/P1.png)
+
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/Pattern%201%3A%20Box)
 
 ### Pattern 2: Star Forest
@@ -12,10 +13,14 @@ Sample case: N = 3
 
 ![p2](https://takeuforward.org/wp-content/uploads/2022/08/P2.png)
 
+Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/Pattern%202%3A%20Star%20Forest)
+
 ### Pattern 3: Number Forest
 Sample case: N = 3
 
 ![p3](https://takeuforward.org/wp-content/uploads/2022/08/P3.png)
+
+Solutions: [Java]()
 
 ### Pattern 4: Number Triangle
 Sample case: N = 3
