@@ -1,5 +1,6 @@
 # Pattern Problems
 Inspired by [Striver - Raj Vikramaditya - takeuforward.org ↗️](https://takeuforward.org/)
+
 These problems will help you develop your logic building skills needed for DSA.
 
 ### Pattern 1: Box
