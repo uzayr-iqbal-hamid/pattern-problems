@@ -80,3 +80,10 @@ Sample case: N = 3
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/11%20-%20Pattern%2011%3A%20Binary%20Number%20Triangle)
 
+### Pattern 12: Number Crown
+Sample case: N = 3
+
+![p12](https://takeuforward.org/wp-content/uploads/2022/08/P12.png)
+
+Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/12%20-%20Pattern%2012%3A%20Number%20Crown)
+
