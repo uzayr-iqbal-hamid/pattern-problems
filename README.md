@@ -1,5 +1,5 @@
 # Pattern Problems
-Inspired by [Striver - Raj Vikramaditya - takeuforward.org ↗️](https://takeuforward.org/)
+Inspired by [Striver - Raj Vikramaditya - takeuforward.org ↗️](https://takeuforward.org/). Head over to [Striver's A-Z DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) to learn DSA in a structured manner.
 
 These problems will help you develop your logic building skills needed for DSA.
 
