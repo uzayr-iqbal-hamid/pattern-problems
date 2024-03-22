@@ -87,3 +87,10 @@ Sample case: N = 3
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/12%20-%20Pattern%2012%3A%20Number%20Crown)
 
+### Pattern 13: Increasing Number Triangle
+Sample case: N = 3
+
+![p13](https://takeuforward.org/wp-content/uploads/2022/08/P13.png)
+
+Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/13%20-%20Pattern%2013%3A%20Increasing%20Number%20Triangle)
+
