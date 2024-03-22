@@ -7,17 +7,23 @@ These problems will help you develop your logic building skills needed for DSA.
 
 ![p1](https://takeuforward.org/wp-content/uploads/2022/08/P1.png)
 
+[Coding Ninjas Studio Problem Link]()
+
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/01%20-%20Pattern%201%3A%20Box) | [Python]()
 
 ### Pattern 2: Star Forest
 
 ![p2](https://takeuforward.org/wp-content/uploads/2022/08/P2.png)
 
+[Coding Ninjas Studio Problem Link]()
+
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/02%20-%20Pattern%202%3A%20Star%20Forest) | [Python]()
 
 ### Pattern 3: Number Forest
 
 ![p3](https://takeuforward.org/wp-content/uploads/2022/08/P3.png)
+
+[Coding Ninjas Studio Problem Link]()
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/03%20-%20Pattern%203%3A%20Number%20Forest) | [Python]()
 
@@ -27,9 +33,13 @@ Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/mai
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/04%20-%20Pattern%204%3A%20Number%20Triangle) | [Python]()
 
+[Coding Ninjas Studio Problem Link]()
+
 ### Pattern 5: Seeding
 
 ![p5](https://takeuforward.org/wp-content/uploads/2022/08/P5.png)
+
+[Coding Ninjas Studio Problem Link]()
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/05%20-%20Pattern%205%3A%20Seeding) | [Python]()
 
@@ -37,11 +47,15 @@ Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/mai
 
 ![p6](https://takeuforward.org/wp-content/uploads/2022/08/P6.png)
 
+[Coding Ninjas Studio Problem Link]()
+
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/06%20-%20Pattern%206%3A%20Reverse%20Number%20Triangle) | [Python]()
 
 ### Pattern 7: Star Triangle
 
 ![p7](https://takeuforward.org/wp-content/uploads/2022/08/P7.png)
+
+[Coding Ninjas Studio Problem Link]()
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/07%20-%20Pattern%207%3A%20Star%20Triangle) | [Python]()
 
@@ -49,11 +63,15 @@ Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/mai
 
 ![p8](https://takeuforward.org/wp-content/uploads/2022/08/P8.png)
 
+[Coding Ninjas Studio Problem Link]()
+
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/08%20-%20Pattern%208%3A%20Inverted%20Star%20Triangle) | [Python]()
 
 ### Pattern 9: Star Diamond
 
 ![p9](https://takeuforward.org/wp-content/uploads/2022/08/P9.png)
+
+[Coding Ninjas Studio Problem Link]()
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/09%20-%20Pattern%209%3A%20Start%20Diamond) | [Python]()
 
@@ -61,11 +79,15 @@ Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/mai
 
 ![p10](https://takeuforward.org/wp-content/uploads/2022/08/P10.png)
 
+[Coding Ninjas Studio Problem Link]()
+
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/10%20-%20Pattern%2010:%20Rotated%20Triangle) | [Python]()
 
 ### Pattern 11: Binary Number Triangle
 
 ![p11](https://takeuforward.org/wp-content/uploads/2022/08/P11.png)
+
+[Coding Ninjas Studio Problem Link]()
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/11%20-%20Pattern%2011%3A%20Binary%20Number%20Triangle) | [Python]()
 
@@ -73,11 +95,15 @@ Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/mai
 
 ![p12](https://takeuforward.org/wp-content/uploads/2022/08/P12.png)
 
+[Coding Ninjas Studio Problem Link]()
+
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/12%20-%20Pattern%2012%3A%20Number%20Crown) | [Python]()
 
 ### Pattern 13: Increasing Number Triangle
 
 ![p13](https://takeuforward.org/wp-content/uploads/2022/08/P13.png)
+
+[Coding Ninjas Studio Problem Link]()
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/13%20-%20Pattern%2013%3A%20Increasing%20Number%20Triangle) | [Python]()
 
