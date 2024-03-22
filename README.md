@@ -72,3 +72,11 @@ Sample case: N = 3
 ![p10](https://takeuforward.org/wp-content/uploads/2022/08/P10.png)
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/10%20-%20Pattern%2010:%20Rotated%20Triangle)
+
+### Pattern 11: Binary Number Triangle
+Sample case: N = 3
+
+![p11](https://takeuforward.org/wp-content/uploads/2022/08/P11.png)
+
+Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/11%20-%20Pattern%2011%3A%20Binary%20Number%20Triangle)
+
