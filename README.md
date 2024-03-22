@@ -65,3 +65,10 @@ Sample case: N = 3
 ![p9](https://takeuforward.org/wp-content/uploads/2022/08/P9.png)
 
 Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/Pattern%209%3A%20Start%20Diamond)
+
+### Pattern 10: Rotated Triangle
+Sample case: N = 3
+
+![p10](https://takeuforward.org/wp-content/uploads/2022/08/P10.png)
+
+Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/Pattern%2010%3A%20Rotated%20Triangle)
