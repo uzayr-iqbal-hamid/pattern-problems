@@ -1,5 +1,5 @@
 # pattern-problems
-### Inspired by [Striver - Raj Vikramaditya - takeuforward.org ↗️](https://takeuforward.org/)
+Inspired by [Striver - Raj Vikramaditya - takeuforward.org ↗️](https://takeuforward.org/)
 
 ### Pattern 1: Box
 Sample case: N = 3
