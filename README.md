@@ -1,7 +1,7 @@
 # Pattern Problems
 - These problems will help you develop your logic building skills needed for DSA.
 
-n = 4
+=> Considering n = 4 for all patterns
 
 ### Pattern 1: Box
 ---
