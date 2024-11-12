@@ -4,14 +4,16 @@
 n = 4
 
 ### Pattern 1: Box
-
-"****
+````
 ****
 ****
-****"
+****
+****
+````
 
-Code:
-```java
+java:
+
+````java
 for(int i = 0; i<n; i++) {
     for(int j = 0; j<i+1; j++){
         System.out.print(" ");
@@ -21,19 +23,26 @@ for(int i = 0; i<n; i++) {
     }
     System.out.println();
 }
-```
+````
 
-[Coding Ninjas Studio Problem Link](https://www.codingninjas.com/studio/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems)
+### Pattern 2: Star Staircase
+````
+*
+**
+***
+****
+````
 
-Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/01%20-%20Pattern%201%3A%20Box) | [Python]()
+java:
 
-### Pattern 2: Star Forest
-
-![p2](https://takeuforward.org/wp-content/uploads/2022/08/P2.png)
-
-[Coding Ninjas Studio Problem Link](https://www.codingninjas.com/studio/problems/n-2-forest_6570178?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems)
-
-Solutions: [Java](https://github.com/uzayr-iqbal-hamid/pattern-problems/blob/main/02%20-%20Pattern%202%3A%20Star%20Forest) | [Python]()
+````java
+for (int i = 0; i<n; i++) {
+    for (int j = i+1; j > 0; j--) {
+        System.out.print("*");
+    }
+    System.out.println();
+}
+````
 
 ### Pattern 3: Number Forest
 
