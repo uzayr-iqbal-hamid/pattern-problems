@@ -3,7 +3,7 @@
 
 => Considering n = 4 for all patterns
 
-### Pattern 1: Box
+### Pattern 1: Star Box
 ---
 ````
 ****
