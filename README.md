@@ -5,22 +5,22 @@ n = 4
 
 ### Pattern 1: Box
 
+"****
 ****
 ****
-****
-****
+****"
 
 Code:
 ```java
 for(int i = 0; i<n; i++) {
-            for(int j = 0; j<i+1; j++){
-                System.out.print(" ");
-            }
-            for(int k = 2*(n - i) - 1; k > 0; k--) {
-                System.out.print("*");
-            }
-            System.out.println();
-        }
+    for(int j = 0; j<i+1; j++){
+        System.out.print(" ");
+    }
+    for(int k = 2*(n - i) - 1; k > 0; k--) {
+        System.out.print("*");
+    }
+    System.out.println();
+}
 ```
 
 [Coding Ninjas Studio Problem Link](https://www.codingninjas.com/studio/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems)
