@@ -4,6 +4,7 @@
 n = 4
 
 ### Pattern 1: Box
+---
 ````
 ****
 ****
@@ -26,6 +27,7 @@ for(int i = 0; i<n; i++) {
 ````
 
 ### Pattern 2: Star Staircase
+---
 ````
 *
 **
@@ -45,6 +47,7 @@ for (int i = 0; i<n; i++) {
 ````
 
 ### Pattern 3: Star Staircase Inverted
+---
 ````
 ****
 ***
@@ -64,6 +67,7 @@ for (int i = 0; i < n; i++) {
 ````
 
 ### Pattern 4: Number Staircase
+---
 ````
 1
 12
@@ -83,6 +87,7 @@ for (int i = 0; i <= n; i++) {
 ````
 
 ### Pattern 5: Star Staricase Combined (Normal + Inverted)
+---
 ````
 *
 **
@@ -111,6 +116,7 @@ for (int k = 0; k < n - 1; k++){
 ````
 
 ### Pattern 6: Star Right Staircase
+---
 ````
     *
    **
@@ -132,6 +138,7 @@ for (int i = 0; i < n; i++) {
 }
 ````
 ### Pattern 7: Star Right Staircase Inverted
+---
 ````
 ****
  ***
@@ -154,6 +161,7 @@ for (int i = 0; i < n; i++) {
 ````
 
 ### Pattern 8: Star Pyramid
+---
 ````
     *
    ***
@@ -175,6 +183,7 @@ for (int i = 0; i<n; i++) {
 }
 ````
 ### Pattern 9: Star Pyramid Inverse
+---
 ````
  *******
   *****
