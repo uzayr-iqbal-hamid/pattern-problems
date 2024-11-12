@@ -1,11 +1,27 @@
 # Pattern Problems
-- Inspired by [Striver - Raj Vikramaditya - takeuforward.org ↗️](https://takeuforward.org/). Head over to [Striver's A-Z DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) to learn DSA in a structured manner.
-- Problems from [Coding Ninjas Studio](https://www.codingninjas.com/studio)
 - These problems will help you develop your logic building skills needed for DSA.
+
+n = 4
 
 ### Pattern 1: Box
 
-![p1](https://takeuforward.org/wp-content/uploads/2022/08/P1.png)
+****
+****
+****
+****
+
+Code:
+```java
+for(int i = 0; i<n; i++) {
+            for(int j = 0; j<i+1; j++){
+                System.out.print(" ");
+            }
+            for(int k = 2*(n - i) - 1; k > 0; k--) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+```
 
 [Coding Ninjas Studio Problem Link](https://www.codingninjas.com/studio/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems)
 
